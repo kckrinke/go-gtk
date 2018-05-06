@@ -3,8 +3,8 @@ package callback
 import (
 	"unsafe"
 
-	"github.com/mattn/go-gtk/glib"
-	"github.com/mattn/go-gtk/gtk"
+	"github.com/kckrinke/go-gtk/glib"
+	"github.com/kckrinke/go-gtk/gtk"
 )
 
 var aboutdialog *gtk.AboutDialog

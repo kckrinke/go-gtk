@@ -6,7 +6,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/mattn/go-gtk/glib"
+	"github.com/kckrinke/go-gtk/glib"
 )
 
 func cfree(s *C.char)            { C.freeCstr(s) }

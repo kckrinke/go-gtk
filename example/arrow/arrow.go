@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mattn/go-gtk/gtk"
+	"github.com/kckrinke/go-gtk/gtk"
 	"os"
 )
 

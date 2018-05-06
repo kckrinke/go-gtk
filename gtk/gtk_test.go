@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/mattn/go-gtk/gtk"
+	"github.com/kckrinke/go-gtk/gtk"
 	"github.com/stretchr/testify/assert"
 )
 
